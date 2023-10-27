@@ -31,7 +31,8 @@ value1,value2=swap_values(value1,value2)
 print("Swapped values are:" ,value1,value2)
 ```
 ## OUTPUT
-![image](https://github.com/RAGALASAIVIVEK/Swapping-two-values/assets/144979718/318b9053-7e57-4bc0-a321-c4b82e229e56)
+![image](https://github.com/RAGALASAIVIVEK/Swapping-two-values/assets/144979718/dd5674a6-f20a-473d-8f3d-41f3e63190a9)
+
 
 
 ## RESULT:
